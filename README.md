@@ -2,6 +2,10 @@
 
 These are the files I use for my local rancher development.
 
+## Prerequisites
+
+[Best video for learning Kubernetes](https://www.youtube.com/watch?v=X48VuDVv0do)
+
 ## Instructions
 
 1. Turn off docker
