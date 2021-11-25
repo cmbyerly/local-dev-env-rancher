@@ -11,7 +11,7 @@ These are the files I use for my local rancher development.
 1. Turn off docker
 2. Install WSL2 - Debian
 3. Install [rancher desktop](https://rancherdesktop.io/)
-4. Helm and Kubectl is installed as part of rancher.
+4. Helm and Kubectl are installed as part of rancher.
 5. Install Portaianer
 
     - `kubectl get sc`
